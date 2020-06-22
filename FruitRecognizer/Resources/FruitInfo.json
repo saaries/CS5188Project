@@ -1,0 +1,20 @@
+[
+    {"name":"Apple", "calories":"52 Kcal", "tips":"GI/GL: 36/4"},
+    {"name":"Pitaya", "calories":"51 Kcal", "tips":"GI/GL: 25/3"},
+    {"name":"Strawberry", "calories":"32 Kcal", "tips":"GI/GL: 29/2"},
+    {"name":"Avocado", "calories":"160 Kcal", "tips":"GI/GL: 27/1"},
+    {"name":"Carambula", "calories":"29 Kcal", "tips":"GI/GL: 42/3"},
+    {"name":"Kohlrabi", "calories":"27 Kcal", "tips":"GI/GL: 70/?"},
+    {"name":"Ginger Root", "calories":"41 Kcal", "tips":"GI/GL: 15/?"},
+    {"name":"Cauliflower", "calories":"24 Kcal", "tips":"GI/GL: 10/1"},
+    {"name":"Redcurrant", "calories":"44Kcal", "tips":"GI/GL: 25/?"},
+    {"name":"Lychee", "calories":"70 Kcal", "tips":"GI/GL: 79/15"},
+    {"name":"Cantaloupe", "calories":"34 Kcal", "tips":"GI/GL: 56/4"},
+    {"name":"Mangostan", "calories":"73 Kcal", "tips":"GI/GL: 60/3"},
+    {"name":"Mulberry", "calories":"49 Kcal", "tips":"GI/GL: 25/3"},
+    {"name":"Eggplant", "calories":"21 Kcal", "tips":"GI/GL: 15/1"},
+    {"name":"Limes", "calories":"37 Kcal", "tips":"GI/GL: 32/4"},
+    {"name":"Banana", "calories":"89 Kcal", "tips":"GI/GL: 52/9"},
+    {"name":"Orange", "calories":"47 Kcal", "tips":"GI/GL: 31/4"},
+]
+ 
